@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Wainwright</string>
+	<string>North Florida Holsteins</string>
+	<string>Shenandoah Dairy</string>
+	<string>Bull Run</string>
+	<string>Furst-McNess Suwannee</string>
+	<string>ADM</string>
+	<string>Hillandale</string>
+	<string>Mid-Georgia</string>
+	<string>Atkinson-Griffin</string>
+	<string>Jernigan</string>
+	<string>Central States</string>
+	<string>Waukeenah</string>
+	<string>Southeastern Minerals</string>
+	<string>Madison Co-op</string>
+	<string>QLF Remote</string>
+	<string>W.B. Fleming</string>
+	<string>Teuton, Inc.</string>
+	<string>Mayo Fertilizer</string>
+	<string>Midwest Feed</string>
+	<string>Clay Agriculture</string>
+	<string>CSA Fertilizer</string>
+	<string>Circle H Ranch</string>
+	<string>Cash and Carry</string>
+	<string>Furst-McNess Cordele</string>
+	<string>Furst-McNess Oak Grove</string>
+	<string>Mayo/Regan</string>
+	<string>Furst-McNess Lake City</string>
+	<string>Midwest Feed (Shaw)</string>
+	<string>Other - see note</string>
+</array>
+</plist>

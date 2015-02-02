@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A50BEDE2-5F18-4A54-A4D3-C452DCA27A23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BHC Orders</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB5AAF7387AB6E9E885FF787B1BAAC14BBBDC6BC</key>
+		<string>https://github.com/jcabrera/BHC-Orders.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BHC Orders.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB5AAF7387AB6E9E885FF787B1BAAC14BBBDC6BC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jcabrera/BHC-Orders.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB5AAF7387AB6E9E885FF787B1BAAC14BBBDC6BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB5AAF7387AB6E9E885FF787B1BAAC14BBBDC6BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BHC%20Orders</string>
+		</dict>
+	</array>
+</dict>
+</plist>

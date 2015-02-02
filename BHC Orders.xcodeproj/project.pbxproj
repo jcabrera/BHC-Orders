@@ -14,6 +14,8 @@
 		D407F2A81A7A8DA80075D825 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D407F2A71A7A8DA80075D825 /* Images.xcassets */; };
 		D407F2AB1A7A8DA80075D825 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D407F2A91A7A8DA80075D825 /* LaunchScreen.xib */; };
 		D407F2B71A7A8DA80075D825 /* BHC_OrdersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D407F2B61A7A8DA80075D825 /* BHC_OrdersTests.m */; };
+		D407F2C11A7AA9B40075D825 /* Customers.plist in Resources */ = {isa = PBXBuildFile; fileRef = D407F2C01A7AA9B40075D825 /* Customers.plist */; };
+		D407F3271A7C1E160075D825 /* Products.plist in Resources */ = {isa = PBXBuildFile; fileRef = D407F3261A7C1E160075D825 /* Products.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		D407F2B01A7A8DA80075D825 /* BHC OrdersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BHC OrdersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D407F2B51A7A8DA80075D825 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D407F2B61A7A8DA80075D825 /* BHC_OrdersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BHC_OrdersTests.m; sourceTree = "<group>"; };
+		D407F2C01A7AA9B40075D825 /* Customers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Customers.plist; sourceTree = "<group>"; };
+		D407F3261A7C1E160075D825 /* Products.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Products.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,8 @@
 				D407F2A71A7A8DA80075D825 /* Images.xcassets */,
 				D407F2A91A7A8DA80075D825 /* LaunchScreen.xib */,
 				D407F29A1A7A8DA80075D825 /* Supporting Files */,
+				D407F2C01A7AA9B40075D825 /* Customers.plist */,
+				D407F3261A7C1E160075D825 /* Products.plist */,
 			);
 			path = "BHC Orders";
 			sourceTree = "<group>";
@@ -201,6 +207,8 @@
 			files = (
 				D407F2A61A7A8DA80075D825 /* Main.storyboard in Resources */,
 				D407F2AB1A7A8DA80075D825 /* LaunchScreen.xib in Resources */,
+				D407F3271A7C1E160075D825 /* Products.plist in Resources */,
+				D407F2C11A7AA9B40075D825 /* Customers.plist in Resources */,
 				D407F2A81A7A8DA80075D825 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
